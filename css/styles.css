@@ -19,6 +19,9 @@ a {
   text-align: center;
   color: #2e2f42;
 }
+ul {
+  list-style: none;
+}
 /*------header------*/
 .header-container {
 }
