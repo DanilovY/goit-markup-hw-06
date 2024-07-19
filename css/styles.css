@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -39,7 +39,6 @@ a {
 .nav-item {
 }
 .nav-item-link {
-  font-weight: 500;
   color: #2e2f42;
 }
 .nav-item-link:hover,
@@ -74,7 +73,6 @@ a {
   color: #fff;
 }
 .button {
-  font-weight: 500;
   border-radius: 4px;
   padding: 16px 32px;
   width: 169px;
@@ -83,6 +81,7 @@ a {
   background: #4d5ae5;
   color: #fff;
   border: none;
+  cursor: pointer;
 }
 .button:hover {
   background: #404bbf;
@@ -95,7 +94,6 @@ a {
 .advantages-item {
 }
 .advantages-item-title {
-  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
@@ -110,7 +108,6 @@ a {
 .team-item {
 }
 .team-item-title {
-  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
@@ -125,7 +122,6 @@ a {
 .portfolio-item {
 }
 .portfolio-item-title {
-  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
