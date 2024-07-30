@@ -249,7 +249,6 @@ header {
   padding: 100px 0;
 }
 .container-footer {
-  max-width: 264px;
 }
 .footer-logo {
   font-family: 'Raleway', sans-serif;
@@ -267,4 +266,5 @@ header {
 }
 .footer-text {
   color: #f4f4fd;
+  max-width: 264px;
 }
