@@ -219,6 +219,7 @@ header {
 .portfolio-container {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .portfolio-title {
   margin-bottom: 72px;
