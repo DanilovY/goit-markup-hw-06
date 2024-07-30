@@ -215,6 +215,9 @@ header {
 .team-item-text {
 }
 /*------- section 4 ---------------*/
+.portfolio {
+  border-bottom: 1px solid #e7e9fc;
+}
 .portfolio-title {
   margin-bottom: 72px;
 }
